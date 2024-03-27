@@ -2,7 +2,7 @@
 
 
 
-Ezeassist is an exciting **Internet of Things (IoT)** project that combines hardware components, cloud APIs, and artificial intelligence to create a voice-controlled assistant. Whether you want to automate your home, monitor environmental conditions, or simply impress your friends, Ezeassist has got you covered!
+Ezeassist is an exciting **Internet of Things (IoT)** project that combines hardware components, cloud APIs, and artificial intelligence to create a voice-controlled assistant. Whether you want to automate your home, monitor environmental conditions, or simply impress your friends, Ezeassist has got you covered.
 
 ## Features
 
